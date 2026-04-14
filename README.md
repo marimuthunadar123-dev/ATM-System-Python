@@ -5,11 +5,12 @@ A CLI-based ATM system built using Python.
 - PIN Authentication
 - Deposit & Withdrawal
 - Transaction History
-- Input Validation
-- Attempt Limits
+- Input Validation with attempts
+- Confirmation System (Y/N)
 
-## Tech Used
-- Python
+## How to Run
+1. Install Python
+2. Run ATM-System.py
 
 ## Future Improvements
 - Daily withdraw limit
