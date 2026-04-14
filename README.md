@@ -1,5 +1,5 @@
 # ATM-System-Python
-A CLI-based ATM system built using Python.
+A command-line based ATM system built using Python.
 
 ## Features
 - PIN Authentication
